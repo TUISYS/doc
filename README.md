@@ -2,4 +2,4 @@
 
 
 ## TUI API接口
-`TUI API使用说明.pdf`，描述了TUI内核结构，以及所有API接口的说明和使用demo。
+👉`TUI API使用说明.pdf`，详细的描述了TUI内核结构，以及所有API接口的说明和使用demo。
